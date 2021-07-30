@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Ajay Karthik</h1>
 <h3 align="center">A passionate computer science enthusiast who loves to learn technologies and getting my hands dirty (coding)</h3>
 
-- 🔭 I’m currently working on **Flutter Projects**
+- 🔭 I’m currently working in [**Novac Technology Solutions**](https://www.novactech.in/index)
 
-- 🌱 I’m currently learning **Flutter and Python**
+- 🌱 I’m currently learning **ASP.NET and SQL SERVER**
 
 - 👯 I’m looking to collaborate on **anything**
 
-- 🤝 I’m looking for help with **Flutter**
+- 🤝 I’m looking for help with **ASP.NET**
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/AjayKarthik2k)
 
